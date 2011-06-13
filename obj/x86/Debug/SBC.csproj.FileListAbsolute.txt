@@ -1,0 +1,5 @@
+C:\dev\Simulated Bee Colony\SBC\bin\Debug\SBC.exe
+C:\dev\Simulated Bee Colony\SBC\bin\Debug\SBC.pdb
+C:\dev\Simulated Bee Colony\SBC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\Simulated Bee Colony\SBC\obj\x86\Debug\SBC.exe
+C:\dev\Simulated Bee Colony\SBC\obj\x86\Debug\SBC.pdb
